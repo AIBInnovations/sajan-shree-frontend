@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "customerName": "John Doe",
+      "mobileNumber": "1234567890",
+      "selectedProduct": "Shirt",
+      "sizeQuantities": {"22": 2, "24": 1},
+      "collarType": "Mandarin",
+      "cuffType": "Barrel",
+      "neckShapeType": "Round",
+      "orderDescription": "Light blue casual shirt with custom buttons",
+      "deliveryDate": "2025-02-10",
+      "image": "https://example.com/path/to/image1.jpg"
+    },
+    {
+      "id": 2,
+      "customerName": "Alice Johnson",
+      "mobileNumber": "0987654321",
+      "selectedProduct": "T-Shirt",
+      "sizeQuantities": {"26": 1, "28": 1},
+      "collarType": "Spread",
+      "cuffType": "French",
+      "neckShapeType": "V-Neck",
+      "orderDescription": "Sports t-shirt for running",
+      "deliveryDate": "2025-02-15",
+      "image": "https://example.com/path/to/image2.jpg"
+    },
+    {
+      "id": 3,
+      "customerName": "Emma Stone",
+      "mobileNumber": "1112223334",
+      "selectedProduct": "Shirt",
+      "sizeQuantities": {"30": 3},
+      "collarType": "Button-Down",
+      "cuffType": "Convertible",
+      "neckShapeType": "Crew",
+      "orderDescription": "Formal white shirt for office wear",
+      "deliveryDate": "2025-02-20",
+      "image": "https://example.com/path/to/image3.jpg"
+    },
+    {
+      "id": 4,
+      "customerName": "Robert Fox",
+      "mobileNumber": "2223334445",
+      "selectedProduct": "Shirt",
+      "sizeQuantities": {"22": 2, "24": 3, "26": 2},
+      "collarType": "Wingtip",
+      "cuffType": "Round",
+      "neckShapeType": "Henley",
+      "orderDescription": "Custom designed party wear",
+      "deliveryDate": "2025-02-25",
+      "image": "https://example.com/path/to/image4.jpg"
+    },
+    {
+      "id": 5,
+      "customerName": "Natalie Port",
+      "mobileNumber": "3334445556",
+      "selectedProduct": "T-Shirt",
+      "sizeQuantities": {"28": 2, "30": 1},
+      "collarType": "Mandarin",
+      "cuffType": "Barrel",
+      "neckShapeType": "Round",
+      "orderDescription": "Gym wear with breathable fabric",
+      "deliveryDate": "2025-03-01",
+      "image": "https://example.com/path/to/image5.jpg"
+    }
+  ]
+  
